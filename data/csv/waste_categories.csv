@@ -1,0 +1,7 @@
+﻿waste_category_id,category_name,description,hazard_level,measurement_unit
+1,Mobile Phones,Discarded mobile phones and small phone devices,Medium,kg
+2,Computers,"Desktop computers, laptops and related equipment",Medium,kg
+3,Batteries,Used rechargeable and other electronic batteries,High,kg
+4,Printers,Discarded printers and scanners,Medium,kg
+5,Cables and Accessories,"Electronic cables, chargers and small accessories",Low,kg
+6,Televisions and Monitors,Discarded screens and display equipment,High,kg
